@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Elvira 👋
 
 I am a client-focused software engineer from Burundi passionate about problem-solving and building tools that connect people!
 
