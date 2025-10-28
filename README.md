@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am a client-focused software engineer from Burundi passionate about problem-solving and building tools that connect people!
+
+💡 I studied mathematics and love turning complex patterns into creative solutions through code and design.
+
+💻 I’m currently building a website for a group home to help them share their mission and connect with their community.
+
+🤝 I’m always excited to collaborate on impactful projects. Please reach out to me at ishelvirakeira@gmail.com
+
 <!--
 **ishelvirakeira/ishelvirakeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
