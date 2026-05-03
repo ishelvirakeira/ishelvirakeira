@@ -1,6 +1,6 @@
 ## Hi, my name is Elvira 👋
 
-I am a client-focused software engineer from Burundi passionate about problem-solving and building tools that connect people!
+I am a client-focused freelancer passionate about problem-solving and building tools that connect people!
 
 💡 I studied mathematics and love turning complex patterns into creative solutions through code and design.
 
